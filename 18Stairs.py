@@ -1,10 +1,3 @@
-# Python program to count
-# ways to reach nth stair
-
-# Recursive function to find
-# Nth fibonacci number
-
-
 def fib(n):
 	if n <= 1:
 		return n
